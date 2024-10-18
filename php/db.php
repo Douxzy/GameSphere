@@ -1,10 +1,10 @@
 <?php
 // db.php - Fichier pour la connexion à la base de données
 
-$host = 'localhost:3306';
-$dbname = 'dero7598_gamesphere';
-$username = 'dero7598_admin';
-$password = 'HRhE4aztM&$r3g?s';
+$host = '';
+$dbname = '';
+$username = '';
+$password = '';
 
 // Créer la connexion
 $conn = new mysqli($servername, $username, $password, $dbname);
