@@ -10,9 +10,9 @@ Bienvenue sur le dépôt GitHub de **Gamesphere** ! Ce projet a pour objectif de
 
 ## 🛠️ Technologies utilisées
 
-- **Frontend** : [HTML, Tailwind]
-- **Backend** : [PHP]
-- **Base de données** : [MySQL]
+- **Frontend** : HTML, Tailwind CSS
+- **Backend** : PHP
+- **Base de données** : MySQL
 
 ## 🤝 Contribuer
 Les contributions sont les bienvenues ! Pour proposer des améliorations, veuillez ouvrir une issue ou soumettre une pull request.
